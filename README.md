@@ -1,4 +1,4 @@
-# Pooh CRM
+# Pooh
 
 A personal project for exploring the Etsy Open API.
 
